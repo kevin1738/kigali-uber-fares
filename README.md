@@ -41,7 +41,7 @@ kigali-uber-fares/
 │   ├── analysis_methodology.md
 │   └── dashboard_user_guide.md
 └── README.md
-\\\`
+
 
 ## 📈 Key Metrics & Insights
 
@@ -182,4 +182,5 @@ The \screenshots/\ folder contains detailed documentation of:
 - Power BI community for visualization best practices
 
 ---
+\\\`<img width="912" height="381" alt="dashboard " src="https://github.com/user-attachments/assets/3e7c090a-b945-4d7d-b50b-92bbf9dd498b" />
 
