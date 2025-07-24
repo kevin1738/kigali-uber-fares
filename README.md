@@ -184,3 +184,6 @@ The \screenshots/\ folder contains detailed documentation of:
 ---
 \\\`<img width="912" height="381" alt="dashboard " src="https://github.com/user-attachments/assets/3e7c090a-b945-4d7d-b50b-92bbf9dd498b" />
 
+<img width="895" height="356" alt="revenue trends" src="https://github.com/user-attachments/assets/5ef9ba1e-cb71-4d4f-b280-12b1371b580d" />
+<img width="403" height="275" alt="erd diagram" src="https://github.com/user-attachments/assets/cc13a622-7172-4629-8bd5-83dca08d878e" />
+<img width="657" height="301" alt="district performances" src="https://github.com/user-attachments/assets/2c9615f3-2de8-45d3-9710-57b73e9c4450" />
