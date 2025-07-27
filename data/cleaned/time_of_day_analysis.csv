@@ -1,0 +1,7 @@
+time_period,hour_start,hour_end,total_rides,avg_fare,total_revenue,demand_category
+Early Morning,6,9,850,3200,2720000,Peak
+Morning,9,12,420,2800,1176000,Off-Peak
+Afternoon,12,15,650,2900,1885000,Moderate
+Evening,15,18,780,3100,2418000,Peak
+Night,18,21,920,3400,3128000,Peak
+Late Night,21,24,280,3800,1064000,Night

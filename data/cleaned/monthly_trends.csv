@@ -1,0 +1,7 @@
+month,year,total_rides,total_revenue,avg_fare,growth_rate_rides,growth_rate_revenue
+January,2024,3200,8500000,2656,0.0,0.0
+February,2024,3450,9200000,2667,7.8,8.2
+March,2024,3800,10100000,2658,10.1,9.8
+April,2024,3650,9800000,2685,-3.9,-3.0
+May,2024,4100,11200000,2732,12.3,14.3
+June,2024,4500,12500000,2778,9.8,11.6
